@@ -29,7 +29,7 @@ const ATB = (props) => {
 
                             <div className="heading-quote">
                                 <h4>
-                                    The key objective in this book is based on the thesis that local leaders need a transformation, that allows them to develop from local to global leaders. In this transformation, there are many complexities and the goal of the book is to help those going through the transformation from local to global to manage the complexities. There is not a solution to eliminate the global complexities, but we can find ways to manage them. For this reason, I use the word principle. There is not a clear prescription of managing complexities, but I believe you can find ways to describe how to manage complexities associated with global leadership
+                                    The key objective in this book is based on the thesis that local leaders need a transformation, that allows them to develop from local to global leaders. In this transformation, there are many complexities and the goal of the book is to help those going through the transformation from local to global to manage the complexities. There is not a solution to eliminate the global complexities, but we can find ways to manage them. For this reason, I use the word principle. There is not a clear prescription of managing complexities, but I believe you can find ways to describe how to manage complexities associated with global leadership.
 
                                 </h4>
                                 <span className="ata-span-fx">
