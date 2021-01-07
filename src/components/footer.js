@@ -23,7 +23,7 @@ const Footer = () => {
                         </h1>
 
                         <p>
-                            B. Jay Clark loves to hear from readers. You can reach him via email.
+                            B. Jay Clark, Ph. D. loves to hear from readers. You can reach him via email.
                             Feel free to send questions about writing, his works, interviews
                             and other publicity matters.
                         </p>

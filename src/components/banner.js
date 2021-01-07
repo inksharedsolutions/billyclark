@@ -12,7 +12,7 @@ const Banner = () => {
                             <div className="banner-text">
 
                                 <h1>
-                                Helping transform local to global leaders
+                                How to Manage Complexities of Global Leadership
                                 </h1>
 
                                 {/* <p className="right-sub-text">
