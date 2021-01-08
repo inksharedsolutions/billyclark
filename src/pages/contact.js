@@ -35,7 +35,7 @@ const Contact = (props) => {
         <>
 
             <Layout>
-            <Helmet title="Contact | B. Jay Clark"/>
+            <Helmet title="Contact | B. Jay Clark, Ph. D."/>
                 <Nav pathExt={props.path} />
                 <Banner
                     spanFirst={``}
